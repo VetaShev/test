@@ -1,0 +1,6 @@
+C:\GitRepositoryShev\ConsoleApplicationTs\ConsoleApplicationTs\bin\Debug\ConsoleApplicationTs.exe.config
+C:\GitRepositoryShev\ConsoleApplicationTs\ConsoleApplicationTs\bin\Debug\ConsoleApplicationTs.exe
+C:\GitRepositoryShev\ConsoleApplicationTs\ConsoleApplicationTs\bin\Debug\ConsoleApplicationTs.pdb
+C:\GitRepositoryShev\ConsoleApplicationTs\ConsoleApplicationTs\obj\Debug\ConsoleApplicationTs.csprojResolveAssemblyReference.cache
+C:\GitRepositoryShev\ConsoleApplicationTs\ConsoleApplicationTs\obj\Debug\ConsoleApplicationTs.exe
+C:\GitRepositoryShev\ConsoleApplicationTs\ConsoleApplicationTs\obj\Debug\ConsoleApplicationTs.pdb
